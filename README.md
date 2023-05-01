@@ -2,6 +2,9 @@
 fullstack javascript Web developer, embedded engineer<br><br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=adityakhairnar06&label=Profile%20views&color=0e75b6&style=flat" alt="adityakhairnar06" /> </p>
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-khairnar-0ba407231/) 
 
