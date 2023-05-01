@@ -1,5 +1,8 @@
+<h1 align="center">Hi 👋, I'm Aditya Khairnar</h1>
+<h3 align="center">Embedded engineer and MEVN full stack web developer from India</h3>
+
 # 💫 About Me:
-fullstack javascript Web developer, embedded engineer<br><br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+fullstack javascript Web developer(MEVN), embedded system engineer<br><br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=adityakhairnar06&label=Profile%20views&color=0e75b6&style=flat" alt="adityakhairnar06" /> </p>
